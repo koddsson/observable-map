@@ -1,3 +1,3 @@
-import config from '@koddsson/eslint-config';
+import config from "@koddsson/eslint-config";
 
-export default [config];
+export default config;
